@@ -6,4 +6,4 @@ but the Mummy will appreciate the lack of humidity
 
 hello
 
-this line is added by tej to create conflict
+Resolved conflict
